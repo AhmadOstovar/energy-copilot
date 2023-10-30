@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="App">
       <img src={logo} alt="Logo" width="35%" style={{ marginBottom: "6rem", minWidth: 200 }} />
-      <h2>Hi, I am the AFRY X bot. How can I help you?</h2>
+      <h2>Hi, I am the AFRY X bot for Energy project. How can I help you?</h2>
       <p style={{ fontSize: 16 }}>Ask a question below and you will receive an answer with references.</p>
       <div style={{ display: "flex", width: "100%", flexDirection: "row", justifyContent: "center", gap: 8 }}>
         <input
