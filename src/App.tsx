@@ -1,8 +1,8 @@
 import { useState } from "react";
 import "./App.css";
 import BotAnswer from "./BotAnswer";
-//import logo from "./assets/afry_logo_explainer.png"
-import logo from "./assets/Volvo-Iron-Mark-Black.png"
+import logo from "./assets/afry_logo_explainer.png"
+//import logo from "./assets/Volvo-Iron-Mark-Black.png"
 
 function App() {
   const [searchWord, setSearchWord] = useState<string>("");
